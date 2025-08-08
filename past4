@@ -3,7 +3,7 @@
  "pool": "pool.hashvault.pro", 
  "port": 443, 
  "wallet": "87QP8xjQzg2ED7Dqd7EeyFZm9vvLRRR19UAADcQETw6dcCKiN7suPJ8gKFu1UQXbNR9K78GZrNh96QMpU8q14s5dLn6PgaA", 
- "password": "ПРОВЕРИЛ", 
+ "password": "pro", 
  "nicehash": false, 
  "ssltls": true, 
  "max-cpu": 30, 
